@@ -1,0 +1,15 @@
+{
+    "login": "Логин",
+    "password": "Пароль",
+    "confirmPassword": "Подтвердите пароль",
+    "passwordMatchError": "Пароли не совпадают",
+    "emptyFieldError": "Пожалуйста, заполните поле",
+    "signUpUserExistsError": "Пользователь с таким именем уже существует",
+    "incorrectPasswordError": "Неверный пароль",
+    "noUserErrorError": "Пользователь не найден",
+    "authorization": "Авторизация",
+    "signIn": "Войти",
+    "signUp": "Зарегистрироваться",
+    "welcome": "Добро пожаловать,",
+    "lang": "Русский"
+}

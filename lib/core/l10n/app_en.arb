@@ -1,0 +1,15 @@
+{
+    "login": "Login",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "passwordMatchError": "Passwords do not match",
+    "authorization": "Authorization",
+    "emptyFieldError": "Please fill the field",
+    "signUpUserExistsError": "User already exists",
+    "incorrectPasswordError": "Incorrect password",
+    "noUserErrorError": "User does not exist",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "welcome": "Welcome",
+    "lang": "English"
+}
